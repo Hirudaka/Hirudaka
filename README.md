@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/IT21304538/IT21304538/blob/main/hirudaka_header2.png)]
+![MasterHead](https://github.com/IT21304538/IT21304538/blob/main/hirudaka_header2.png)
 <h1 align="center">Hi 👋, I'm Hirudaka Kumarasinghe </h1>
 <h3 align="center">Enthusiastic Software Engineer UG | Problem solver | Tech Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif?format=1500w">
