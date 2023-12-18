@@ -41,10 +41,19 @@
 
 <h3 align="left">📊 GitHub Stats : </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21304538" alt="it21304538" /></a> </p>
+<div align="center">
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=IT21304538&theme=react&border_radius=10" alt="GitHub Streak Stats" />
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=IT21304538&theme=react&border_radius=10" alt="GitHub Readme Stats" />
+
+  <br />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21304538&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+</div>
+
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21304538" alt="it21304538" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it21304538&show_icons=true&locale=en&layout=compact" alt="it21304538" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=it21304538&show_icons=true&locale=en" alt="it21304538" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=it21304538&" alt="it21304538" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=it21304538&" alt="it21304538" /></p> -->
+df
