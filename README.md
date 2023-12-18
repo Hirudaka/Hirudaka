@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/IT21304538/IT21304538/blob/main/hirudaka_header2.png)
 <h1 align="center">Hey 👀, I'm Hirudaka Kumarasinghe 👾👨‍💻</h1>
 <h3 align="center">Enthusiastic Software Engineer UG | Problem solver | Tech Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4801105-Animation/attachments/10603366?mode=media">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21304538&label=Profile%20views&color=0e75b6&style=flat" alt="it21304538" /> </p>
 
