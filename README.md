@@ -49,6 +49,8 @@
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21304538&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 </div>
 
+<hr/>
+
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21304538" alt="it21304538" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it21304538&show_icons=true&locale=en&layout=compact" alt="it21304538" /></p>
@@ -56,4 +58,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=it21304538&show_icons=true&locale=en" alt="it21304538" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=it21304538&" alt="it21304538" /></p> -->
-df
