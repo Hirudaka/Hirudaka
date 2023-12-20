@@ -40,9 +40,11 @@
 
 <hr/>
 
-<h3 align="left">📊 GitHub Stats : </h3>
+<h3 align="left">🏆 GitHub Trophies : </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21304538" alt="it21304538" /></a> </p>
+
+<h3 align="left">📊🏆 GitHub Stats : </h3>
 <div align="center">
 <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=IT21304538&theme=react&border_radius=10" alt="GitHub Streak Stats" />
 <img width="390" src="https://github-readme-stats.vercel.app/api?username=IT21304538&theme=react&border_radius=10" alt="GitHub Readme Stats" />
