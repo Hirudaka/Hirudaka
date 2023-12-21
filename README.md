@@ -53,7 +53,6 @@
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21304538&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 </div>
 
-
 <hr/>
 
 <!--
