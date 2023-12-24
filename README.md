@@ -40,7 +40,7 @@
 
 <hr/>
 
-<h3 align="left">🏆 GitHub Trophies </h3>
+<h3 align="left">🏆 GitHub Trophies :</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21304538" alt="it21304538" /></a> </p>
 
