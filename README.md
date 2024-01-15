@@ -7,7 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21304538&label=Profile%20views&color=0e75b6&style=flat" alt="it21304538" /> </p> 
 <p align="left"> <img src="https://img.shields.io/github/last-commit/IT21304538/IT21304538" alt="IT21304538" /></a> </p>
 
-
 - 🔭 I’m currently working on [Smart-Build](https://github.com/IT21221064/ConstructionSite_Management-System)
 
 - 🌱 I’m currently learning **Flutter**
