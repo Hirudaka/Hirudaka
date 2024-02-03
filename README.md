@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ![MasterHead](https://github.com/IT21304538/IT21304538/blob/main/hirudaka_header2.png)
 <h1 align="center">Hey 👀, I'm Hirudaka Kumarasinghe ! 👾👨‍💻 </h1> 
 
@@ -17,6 +18,7 @@
 
 - ⚡ Fun fact **I LOVE memes and paranormal stuff.**
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <hr/>
 
 <h3 align="left">🌐 Connect with me :</h3>
