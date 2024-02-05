@@ -4,7 +4,7 @@
 <h1 align="center">Hey 👀, I'm Hirudaka Kumarasinghe ! 👾👨‍💻 </h1> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=F70909&center=true&vCenter=true&width=800&height=80&lines=A+Passionate+Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=F70909&center=true&vCenter=true&width=800&height=80&lines=A+Passionate+FullStack+Developer;Software+Engineering+UG+|+Tech+enthusiast)](https://git.io/typing-svg)
 
 <h3 align="center">Enthusiastic Software Engineer UG | Problem solver | Tech Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif">
@@ -50,12 +50,17 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="left">📊 GitHub Stats :</h3>
-<div align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
 <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=IT21304538&theme=react&border_radius=10" alt="GitHub Streak Stats" />
+</td>
+<td width="50%" align="center">
 <img width="390" src="https://github-readme-stats.vercel.app/api?username=IT21304538&theme=react&border_radius=10" alt="GitHub Readme Stats" />
-
-  <br />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21304538&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21304538&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+</td>
+</tr>
+</table>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
