@@ -53,11 +53,11 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=IT21304538&theme=react&border_radius=10" alt="GitHub Streak Stats" />
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=IT21304538&theme=react&border_radius=10" alt="GitHub Readme Stats" />
 </td>
 <td width="50%" align="center">
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=IT21304538&theme=react&border_radius=10" alt="GitHub Readme Stats" />
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21304538&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=IT21304538&theme=react&border_radius=10" alt="GitHub Streak Stats" />
+<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21304538&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 </td>
 </tr>
 </table>
