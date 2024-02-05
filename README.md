@@ -12,6 +12,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21304538&label=Profile%20views&color=0e75b6&style=flat" alt="it21304538" /> </p> 
 <p align="left"> <img src="https://img.shields.io/github/last-commit/IT21304538/IT21304538" alt="IT21304538" /></a> </p>
 
+- 🎓 BSc(Hons) in IT Specializing in Software Enginnering
+
 - 🔭 I’m currently working on [Smart-Build](https://github.com/IT21221064/ConstructionSite_Management-System)
 
 - 🌱 I’m currently learning **Flutter**
@@ -53,11 +55,12 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=IT21304538&theme=react&border_radius=10" alt="GitHub Readme Stats" />
+<img width="365" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21304538&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 </td>
 <td width="50%" align="center">
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=IT21304538&theme=react&border_radius=10" alt="GitHub Readme Stats" />
 <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=IT21304538&theme=react&border_radius=10" alt="GitHub Streak Stats" />
-<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21304538&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+
 </td>
 </tr>
 </table>
