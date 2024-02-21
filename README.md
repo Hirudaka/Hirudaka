@@ -46,18 +46,18 @@
 
 <h3 align="left">🏆 GitHub Trophies :</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21304538" alt="it21304538" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hirudaka" alt="Hirudaka" /></a> </p>
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <h3 align="left">📊 GitHub Stats :</h3>
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-<img width="345" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21304538&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+<img width="345" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirudaka&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 </td>
 <td width="50%" align="center">
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=IT21304538&show_icons=true&theme=react&border_radius=10" alt="GitHub Readme Stats" />
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=IT21304538&show_icons=true&theme=react&border_radius=10" alt="GitHub Streak Stats" />
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=Hirudaka&show_icons=true&theme=react&border_radius=10" alt="GitHub Readme Stats" />
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Hirudaka&show_icons=true&theme=react&border_radius=10" alt="GitHub Streak Stats" />
 
 </td>
 </tr>
