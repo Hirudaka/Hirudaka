@@ -4,7 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&center=true&vCenter=true&width=800&height=90&lines=A+Passionate+FullStack+Developer;Software+Engineering+UG+|+Tech+enthusiast)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21304538&label=Profile%20views&color=0e75b6&style=flat" alt="it21304538" /> </p> 
