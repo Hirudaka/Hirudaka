@@ -11,7 +11,7 @@
 
 - 🎓 BSc(Hons) in IT Specializing in Software Enginnering
 
-- 🔭 I’m currently working on [Smart-Build](https://github.com/IT21221064/ConstructionSite_Management-System)
+- 🔭 I’m currently working on [Safari-App-Web](https://github.com/Hirudaka/Safari-App-Web)
 
 - 🌱 I’m currently learning **Flutter**
 
