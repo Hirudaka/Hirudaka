@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/IT21304538/IT21304538/blob/main/hirudaka_header2.png)
-<h1 align="center">Hey 👀, I'm Hirudaka Kumarasinghe ! ! 👾👨‍💻 </h1>  
+<h1 align="center">Hey 👀, I'm Hirudaka Kumarasinghe !! 👾👨‍💻 </h1>  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&center=true&vCenter=true&width=800&height=90&lines=A+Passionate+FullStack+Developer;Software+Engineering+UG+|+Tech+enthusiast)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
